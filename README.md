@@ -1,9 +1,6 @@
 # TdQM
-## 1. TdQM-Html
----------------
-## 2. TdQm补充
----------------
-## 3. TdQm-Prüfung
+
+## TdQm-Prüfung
 1. 所有的缩写，全称，及其定义(填字游戏)
  > z.B. DSM：Design Structure Matrix ：Die DSM ist eine kompakte und übersichtliche Darstellung eines komplexen Systems hinsichtlich Interaktionen, Wechselwirkungen und Schnittstellen zwischen System-Elementen.
 > 考试的好像是QFD。
