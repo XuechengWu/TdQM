@@ -51,13 +51,21 @@
 
 14. 8D Report
 > Teambildung
->  Problembeschreibung
->  Maßnahmen zur direkten Schadensbegrenzung
- > Ursachenermittlung
- > Abstellmaßnahmen festlegen zur Ursachenbeseitigung und Problemlösung
->  Maßnahmeneinführung und Kontrolle
->  Wiederauftreten verhindern
->  Abschluss
+
+ Problembeschreibung
+ 
+  Maßnahmen zur direkten Schadensbegrenzung
+  
+ Ursachenermittlung
+ 
+ Abstellmaßnahmen festlegen zur Ursachenbeseitigung und Problemlösung
+ 
+ Maßnahmeneinführung und Kontrolle
+ 
+  Wiederauftreten verhindern
+  
+ Abschluss
+ 
 ```
 以上的VL与页码都是2020SS版
 ```
