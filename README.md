@@ -65,6 +65,8 @@
  * Wiederauftreten verhindern
   
 * Abschluss
+ 15. Denke Thinking
+ ![钻石图](https://github.com/XuechengWu/TdQM/blob/main/%E5%9B%BE%E5%83%8F%201.png)
  
 ```
 以上的VL与页码都是2020SS版
