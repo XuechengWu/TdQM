@@ -50,21 +50,21 @@
 > 这个好像在FAB里面...
 
 14. 8D Report
-> Teambildung
+ * Teambildung
 
- Problembeschreibung
+ * Problembeschreibung
  
-  Maßnahmen zur direkten Schadensbegrenzung
+ *  Maßnahmen zur direkten Schadensbegrenzung
   
- Ursachenermittlung
+* Ursachenermittlung
  
- Abstellmaßnahmen festlegen zur Ursachenbeseitigung und Problemlösung
+* Abstellmaßnahmen festlegen zur Ursachenbeseitigung und Problemlösung
  
- Maßnahmeneinführung und Kontrolle
+* Maßnahmeneinführung und Kontrolle
  
-  Wiederauftreten verhindern
+ * Wiederauftreten verhindern
   
- Abschluss
+* Abschluss
  
 ```
 以上的VL与页码都是2020SS版
