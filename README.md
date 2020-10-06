@@ -47,9 +47,17 @@
 > 比如考题中，将Cm 的特征说成Cmk 的，是错的。
 
 13. 5S
+> 这个好像在FAB里面...
 
 14. 8D Report
-
+> Teambildung
+>  Problembeschreibung
+>  Maßnahmen zur direkten Schadensbegrenzung
+ > Ursachenermittlung
+ > Abstellmaßnahmen festlegen zur Ursachenbeseitigung und Problemlösung
+>  Maßnahmeneinführung und Kontrolle
+>  Wiederauftreten verhindern
+>  Abschluss
 ```
 以上的VL与页码都是2020SS版
 ```
